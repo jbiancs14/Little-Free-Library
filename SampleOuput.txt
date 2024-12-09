@@ -1,0 +1,199 @@
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: B
+Title: Cuddly Elephant (Pot-Bellied Buddies), Author: Penny Johnson, ISBN: 978-0681076891, Year: 2014, Pages: 10.		2		Wed Aug 12 18:58:51 EDT 2020
+Title: Babbit, Author: Sinclair Lewis, ISBN: 978-0553214864, Year: 2015, Pages: 134.		2		Sun Jul 26 18:58:51 EDT 2020
+Title: The Sketch Book, Author: Washington Irving, ISBN: 978-0766184909, Year: 1961, Pages: 378.		2		Thu Aug 13 18:58:51 EDT 2020
+Title: Soul on Ice, Author: Eldridge Cleaver, ISBN: 038533379X, Year: 1999, Pages: 256.		2		Wed Sep 02 18:58:51 EDT 2020
+Title: "Billy Budd, Foretopman", Author: herman melville, ISBN: 055312059X, Year: 1978, Pages: 122.		2		Tue Sep 22 18:58:51 EDT 2020
+Title: The Bell Jar, Author: Sylvia Plath, ISBN: 978-0060837020, Year: 1963, Pages: 288.		1		null
+Title: "Don't Just do Something, Sit there", Author: Richard Eyre, ISBN: 978-0671887292, Year: 1985, Pages: 176.		1		null
+Title: By Honour Bound, Author: Valery Gray, ISBN: 978-0-312-02174-0, Year: 1988, Pages: 224.		1		null
+Title: Things I Did for Love, Author: Ellen Conford, ISBN: 978-0553054316, Year: 1987, Pages: 137.		1		null
+Title: A Paler Shade of White: The History of White People in America, Author: Martin Mull; Allen Rucker, ISBN: 978-0399513008, Year: 1986, Pages: 230.		1		null
+Title: See now then, Author: Jamaica Kincaid, ISBN:  978-0374534363, Year: 2014, Pages: 192.		1		null
+Title: Pereira Maintains, Author: Antonio Tabucchi, ISBN: 978-1847679369, Year: 2011, Pages: 208.		1		null
+Title: Elmer Gantry , Author: Sinclair Lewis, ISBN: 978-1499558838, Year: 2014, Pages: 314.		1		null
+Title: Remember When, Author: Nora Roberts, ISBN: 978-0399151064, Year: 2003, Pages: 440.		1		null
+Title: Angels Fall, Author: Nora Roberts, ISBN: 978-0399153723, Year: 2006, Pages: 448.		1		null
+Title: One last wish mother help me live, Author: Lurlene McDaniel, ISBN:  978-0833592613, Year: 1992, Pages: 136.		1		null
+Title: Pelican Brief, Author: John Grisham, ISBN: 978-0140814859, Year: 1995, Pages: 80.		1		null
+Title: Valeria's Last Stand, Author: Marc Fitten, ISBN: 978-1608192090, Year: 2010, Pages: 272.		1		null
+Title: 24 hours that changed the world, Author: Adam Hamilton, ISBN: 978-1426712074, Year: 2010, Pages: 80.		1		null
+Title: Mont-Saint-Michel and Chartes, Author: Henry Adams, ISBN: 978-0140390544, Year: 1986, Pages: 448.		1		null
+Title: Feathers, Author: Jacqueline Woodson, ISBN: 978-0142415504, Year: 2010, Pages: 160.		1		null
+Title: Prince Caspian , Author: C.S. Lewis, ISBN: 978-0140301731, Year: 1979, Pages: 238.		1		null
+Title: Love and Anger the Parental Dilemma, Author: Nancy Samalin, ISBN: 978-0140129922, Year: 1992, Pages: 241.		1		null
+Title: The Call to Conversion, Author: Jim Wallis, ISBN: 978-0060842376, Year: 2005, Pages: 201.		1		null
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: b
+Enter ISBN: 978-0060842376
+Title: The Call to Conversion, Author: Jim Wallis, ISBN: 978-0060842376, Year: 2005, Pages: 201.
+Status: 1
+Due: null
+Patron: null
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: P
+Name: John Doe, Email:  jdoe@doe.com, ID: 1, Balance: $0.00.
+Name: Jane Smith, Email:  jsmith@gmail.com, ID: 2, Balance: $1.00.
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: p
+Enter Patron Nr: 2
+Name: Jane Smith, Email:  jsmith@gmail.com, ID: 2, Balance: $1.00.
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: O
+Enter ISBN: 978-0060842376
+Enter Patron Nr: 2
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: S
+Enter Title: The Call to Conversion
+Title: The Call to Conversion, Author: Jim Wallis, ISBN: 978-0060842376, Year: 2005, Pages: 201.
+Status: 2
+Due: Sat Oct 03 19:00:08 EDT 2020
+Patron: Name: Jane Smith, Email:  jsmith@gmail.com, ID: 2, Balance: $1.00.
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: I
+Enter ISBN: The Call to Conversion
+That ISBN is not in the catalog.
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: S
+Enter Title: The Call to Conversion
+Title: The Call to Conversion, Author: Jim Wallis, ISBN: 978-0060842376, Year: 2005, Pages: 201.
+Status: 2
+Due: Sat Oct 03 19:00:08 EDT 2020
+Patron: Name: Jane Smith, Email:  jsmith@gmail.com, ID: 2, Balance: $1.00.
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: F
+Enter ISBN: 978-0060842376
+Fine: 0.00
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: I
+Enter ISBN: 978-0060842376
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: S
+Enter Title: The Call to Conversion
+Title: The Call to Conversion, Author: Jim Wallis, ISBN: 978-0060842376, Year: 2005, Pages: 201.
+Status: 1
+Due: null
+Patron: null
+
+Enter an option:
+  B: List the book catalog
+  b: List the details of a book
+  P: List the Patrons
+  p: List details of a patron
+  S: Search for a book
+  O: Check out a book
+  I: Check in a book
+  F: Determine the fine amount for a book
+  Q: Quit
+Option: Q
